@@ -44,6 +44,8 @@ Engage in conversation with Google's powerful Gemini AI! This Python CLI leverag
     python app.py
     ```
 ---
+
+
 ## Output Pic
 CLI Output Picture:
 <img src = "./output_pic.png">
