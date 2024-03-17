@@ -27,8 +27,8 @@ Engage in conversation with Google's powerful Gemini AI! This Python CLI leverag
     Get your Gemini API key below 👇<br>
     https://aistudio.google.com/app/apikey
 <br>
-6. Create credentials.ini File
-    Create a credentials.ini file in your project directory and add the following:
+6. Create credentials.ini File<br>
+    Create a credentials.ini file in your project directory and add the following:<br>
     ```s
     [gemini_ai]
     API_KEY = xxxxxxxxxxxxxxx
@@ -36,10 +36,10 @@ Engage in conversation with Google's powerful Gemini AI! This Python CLI leverag
 7. Copy Repository Files <br>
     Copy all files from the repository and paste them into your project directory.
 <br>
-8. Set Up Target Environment
+8. Set Up Target Environment<br>
     Ensure your environment is set up correctly for the application.
 <br>
-9. Execute the Code
+9. Execute the Code<br>
     ```s
     python app.py
     ```
